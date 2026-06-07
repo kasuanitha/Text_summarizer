@@ -2,7 +2,7 @@
 
 A lightweight Flask app that summarizes text and reports a simple accuracy score.
 
-![Sample Output](assets/output.svg)
+![Sample Output](assets/output.png)
 
 Repository: https://github.com/kasuanitha/Text_summarizer
 
